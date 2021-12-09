@@ -26,6 +26,7 @@ SpringBoot
 MySQL Database
 Thymeleaf templates
 Probably Hibernate
+Bootstrap
 ### What I'll Have to Learn
 In order to integrate the application with the user's personal calendar application, I will have to research and learn more about calendar APIs, and which one would be the best for our specific applicaiton. 
 ### Project Tracker
