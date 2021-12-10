@@ -14,19 +14,29 @@ We're creating an application that will be your go-to for storing and accessing 
 The members of our group either have or know of someone who has chronic illness and medical conditions. The idea for this application came out of our own frustration with having to fill out medical histories/information over and over again, stressing every time to ensure accuracy. By having one central, secure location where users can update, upload and easily access their personal medical information, we can help reduce at least a little of the stress of having to meet with a new doctor. 
 
 ### Features
-User Login: Registration and Login will be required for users to access the application. Users will have the ability to create a comprehensive profile to store personal medical information.  
-Search: Users will be able to search through their information by searchterm, date, symptom, medication, and doctor/specialist
-Medicine Tracker: User will be able to list/store/update all medications, including details such as dosages, prescribing doctor, and start/stop dates.
-Symptom Tracker: User will be able to list/store/update specific symptoms, whether they relate to a chronic condition or otherwise. Doing so can help narrow diagnoses possibilities and help the user to recognize and avoid triggers to their conditions. 
-Calender Integretion: This applicaiton will give the user to option to automatically set prescription refill reminders and appointments on the user's personal digital calendar. 
+**User Login:** 
+  Registration and Login will be required for users to access the application. Users will have the ability to create a comprehensive profile to store personal  medical information.  
+  
+**Search Function:** 
+  Users will be able to search through their information by searchterm, date, symptom, medication, and doctor/specialist.
+  
+**Medicine Tracker:** 
+  User will be able to list/store/update all medications, including details such as dosages, prescribing doctor, and start/stop dates.
+  
+**Symptom Tracker:** 
+  User will be able to list/store/update specific symptoms, whether they relate to a chronic condition or otherwise. Doing so can help narrow diagnoses possibilities and help the user to recognize and avoid triggers to their conditions. 
+  
+**Calender Integretion:** 
+  User will be able to sync the application to their personal digital calendar (i.e. google calendar) in order to be reminded for upcoming appointments and prescription refills. 
 ### Technologies
-Java
-JavaScript
-SpringBoot
-MySQL Database
-Thymeleaf templates
-Probably Hibernate
-Bootstrap
+- Java
+- JavaScript
+- SpringBoot
+- MySQL Database
+- Thymeleaf templates
+- Hibernate
+- Bootstrap
+- Calendar API
 ### What I'll Have to Learn
 In order to integrate the application with the user's personal calendar application, I will have to research and learn more about calendar APIs, and which one would be the best for our specific applicaiton. 
 ### Project Tracker
